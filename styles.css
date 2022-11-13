@@ -21,6 +21,12 @@
     background-color: white;
 }
 
+img {
+   width: 150px;
+   height:150px;
+   border: 7px solid black;
+}
+
 .comment-box{
     width: 200px;
     height: 200px;
@@ -63,8 +69,6 @@
     background-color: white;
 }
 
-body{
-  @media (min)
-}
+
 
 
